@@ -1,6 +1,6 @@
-# 💫 About Me:
+# ✦ About Me:
 
-🔭 I'm currently working on building web applications and developing my software engineering skills.<br><br>👯 I'm looking to collaborate on Web Development and Open Source projects.<br><br>🤝 I'm looking to improve my knowledge of Software Architecture, Backend Development, and best coding practices.<br><br>🌱 I'm currently learning Spring Boot and React.<br><br>💬 Ask me about Python, Java, JavaScript, Django, Object-Oriented Programming, and Web Development.<br>
+⟡ I'm currently working on building web applications and developing my software engineering skills.<br><br>⟡ I'm looking to collaborate on Web Development and Open Source projects.<br><br>⟡ I'm looking to improve my knowledge of Software Architecture, Backend Development, and best coding practices.<br><br>⟡ I'm currently learning Spring Boot and React.<br><br>⟡ Ask me about Python, Java, JavaScript, Django, Object-Oriented Programming, and Web Development.<br>
 
 ## 🌐 Socials:
 
